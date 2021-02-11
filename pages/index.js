@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons'
+import {Parallax, ParallaxLayer} from 'react-spring/addons'
 
 
 export default function Home() {
