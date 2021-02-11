@@ -1,7 +1,5 @@
 import React from "react"
-import { Parallax, ParallaxLayer } from 'react-spring/addons'
-
-
+import { Parallax, ParallaxLayer } from 'react-spring/renderprops-addons'
 
 export default function Home() {
   return (
